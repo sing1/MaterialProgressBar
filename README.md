@@ -2,7 +2,7 @@
 ================ 
  ![demo](./app/src/main/res/drawable/demo.gif "demo")
  
- [demo]: ./app/src/main/res/drawable/demo.gif "demo"  
+ [demo](./app/src/main/res/drawable/demo.gif "demo")  
 ## apk
 [MaterialProgressBar-1.0.3-sample.apk](https://github.com/Sing1/MaterialProgressBar/blob/master/app.apk)
 ## gradle:
