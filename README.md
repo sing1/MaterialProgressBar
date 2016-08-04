@@ -8,6 +8,7 @@
 dependencies {
     ...
     compile 'com.sing.materialprogressbar:library:1.0.3'
+}
 ```
 ## Maven:
 ```xml
