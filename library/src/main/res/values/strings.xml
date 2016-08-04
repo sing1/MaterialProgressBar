@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaterialProgressBar</string>
+    <string name="native_implementation">Native Implementation</string>
+    <string name="library_implementation">Library Implementation</string>
+    <string name="horizontal_progress">Horizontal ProgressBar</string>
+    <string name="indeterminate_horizontal_progress">Indeterminate Horizontal ProgressBar</string>
+    <string name="indeterminate_progress">Indeterminate ProgressBar</string>
+    <string name="toolbar_progress">ProgressBar on Toolbar</string>
+    <string name="horizontal_progress_toolbar">Horizontal</string>
+    <string name="indeterminate_horizontal_progress_toolbar">Indeterminate Horizontal</string>
+</resources>
