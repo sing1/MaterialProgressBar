@@ -180,3 +180,5 @@ dependencies {
     <item name="android:maxHeight">3.2dp</item>
 </style>
 ```
+
+# All 'style' are in the project, you can customize your 'style'.
