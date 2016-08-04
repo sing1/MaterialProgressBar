@@ -1,25 +1,20 @@
 # MaterialProgressBar
 ================
-
-## 效果
  ![Basic](./app/src/main/res/drawable/demo.gif)
-      
-## Sample
-
-[MaterialEditText-2.1.4-sample.apk](https://github.com/rengwuxian/MaterialEditText/releases/download/2.1.4/MaterialEditText-2.1.4-sample.apk)
-  
+## apk
+[MaterialProgressBar-1.0.3-sample.apk](https://github.com/Sing1/MaterialProgressBar/app.apk)
 ## gradle:
-
 ```groovy
-compile 'com.rengwuxian.materialedittext:library:2.1.4'
+dependencies {
+    ...
+    compile 'com.sing.materialprogressbar:library:1.0.3'
 ```
-
 ## Maven:
 ```xml
 <dependency>
-  <groupId>com.rengwuxian.materialedittext</groupId>
+  <groupId>com.sing.materialprogressbar</groupId>
   <artifactId>library</artifactId>
-  <version>2.1.4</version>
+  <version>1.0.3</version>
   <type>aar</type>
 </dependency>
 ```
