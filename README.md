@@ -17,7 +17,7 @@ dependencies {
   <groupId>com.sing.materialprogressbar</groupId>
   <artifactId>library</artifactId>
   <version>1.0.3</version>
-  <type>aar</type>
+  <type>pom</type>
 </dependency>
 ```
 ## sample
